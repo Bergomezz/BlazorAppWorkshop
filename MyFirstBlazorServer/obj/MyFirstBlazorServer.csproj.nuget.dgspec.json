@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\desktop\\Bernardo\\BlazorAppWorkshop\\MyFirstBlazorServer\\MyFirstBlazorServer.csproj": {}
+    "d:\\desktop\\Bernardo\\BlazorAppWorkshop\\MyFirstBlazorServer\\MyFirstBlazorServer.csproj": {}
   },
   "projects": {
-    "D:\\desktop\\Bernardo\\BlazorAppWorkshop\\MyFirstBlazorServer\\MyFirstBlazorServer.csproj": {
+    "d:\\desktop\\Bernardo\\BlazorAppWorkshop\\MyFirstBlazorServer\\MyFirstBlazorServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\desktop\\Bernardo\\BlazorAppWorkshop\\MyFirstBlazorServer\\MyFirstBlazorServer.csproj",
+        "projectUniqueName": "d:\\desktop\\Bernardo\\BlazorAppWorkshop\\MyFirstBlazorServer\\MyFirstBlazorServer.csproj",
         "projectName": "MyFirstBlazorServer",
-        "projectPath": "D:\\desktop\\Bernardo\\BlazorAppWorkshop\\MyFirstBlazorServer\\MyFirstBlazorServer.csproj",
+        "projectPath": "d:\\desktop\\Bernardo\\BlazorAppWorkshop\\MyFirstBlazorServer\\MyFirstBlazorServer.csproj",
         "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "D:\\desktop\\Bernardo\\BlazorAppWorkshop\\MyFirstBlazorServer\\obj\\",
+        "outputPath": "d:\\desktop\\Bernardo\\BlazorAppWorkshop\\MyFirstBlazorServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -20,6 +20,7 @@
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "C:\\Program Files\\dotnet\\sdk\\7.0.305\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
